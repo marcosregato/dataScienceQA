@@ -9,9 +9,6 @@
 > ** Ferramentas de desenvolvimento ** </br>
 > Python 3
 
-# URL para acessar API
-> Acesse http://localhost:8080/api/clientes
-
 # Links dos projetos da arquitetura
 > __Modelo Teste Funcional__
 > [GitHub Pages](https://github.com/marcosregato/modeloTesteFuncional).</br>
@@ -24,3 +21,6 @@
 
 > __convert CSV to JSON__
 > [GitHub Pages](https://github.com/marcosregato/convertCSVtoJSON).</br>
+
+> __Data Science QA__
+> [GitHub Pages](https://github.com/marcosregato/dataScienceQA).</br>
