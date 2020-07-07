@@ -24,3 +24,6 @@
 
 > __Data Science QA__
 > [GitHub Pages](https://github.com/marcosregato/dataScienceQA).</br>
+
+> __Gerador massa de dados QA__
+> [GitHub Pages](https://github.com/marcosregato/geradorMassaQA).</br>
